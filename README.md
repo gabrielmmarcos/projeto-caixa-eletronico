@@ -1,7 +1,7 @@
-# projeto-caixa-eletronico
+# Caixa Eletronico
 Este projeto é um simulador de caixa eletrônico (ATM) desenvolvido em Python.
 
-# Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto é um simulador de caixa eletrônico (ATM) desenvolvido em Python.
 Ele permite realizar operações bancárias básicas de forma interativa via terminal:
